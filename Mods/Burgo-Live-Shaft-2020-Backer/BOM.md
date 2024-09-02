@@ -1,4 +1,4 @@
-[Sendcutsend Cart](https://cart.sendcutsend.com/qsqcrl6fotax)
+[SendCutSend Cart](https://cart.sendcutsend.com/qsqcrl6fotax)
 
 Additions:
 | Part | Quantity | Link |
