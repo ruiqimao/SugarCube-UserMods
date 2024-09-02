@@ -14,7 +14,8 @@ Additions:
 | M3x22mm Alu Spacer | 2 | [McMaster-Carr](https://www.mcmaster.com/94669A319/) |
 | 5mmODx1mm Wall Thickness Steel Tube x250mm | 1 | [Aliexpress](https://www.aliexpress.us/item/4001197346556.html) |
 | 10mm Reamer | 1 | [Aliexpress](https://www.aliexpress.com/item/1005003095896937.html) |
-
+| 3x5x.5 Shims | Buy 50 | [Aliexpress](https://www.aliexpress.com/item/1005004445368257.html) |
+| 3x6x1 Shims | Buy 50 | [Aliexpress](https://www.aliexpress.com/item/1005004445368257.html) |
 
 Removals:
 | Part | Quantity | New Total
