@@ -1,5 +1,7 @@
 # Button Corner
 
+![Animation](Images/Animation.gif)
+
 This mods adds a stealthy integrated button into a skirt corner. In addition to the parts required for a regular skirt corner, this mod requires:
 
 | Part | Quantity |
