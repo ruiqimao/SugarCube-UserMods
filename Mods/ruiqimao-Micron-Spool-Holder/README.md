@@ -2,7 +2,7 @@
 
 ![Image](Images/Image.png)
 
-This is a mount for the removeable spool holder from [Micron R1](https://github.com/PrintersForAnts/Micron). It mounts to the back panel of the printer, similar to the reverse Bowden holder.
+This is a mount for the removable spool holder from [Micron R1](https://github.com/PrintersForAnts/Micron). It mounts to the back panel of the printer, similar to the reverse Bowden holder.
 
 | Part | Quantity |
 |:-|:-:|
