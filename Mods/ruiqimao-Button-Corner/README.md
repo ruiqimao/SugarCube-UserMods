@@ -23,8 +23,8 @@ release_gcode: _ACTION_RELEASE
 
 [gcode_macro ACTION_BUTTON]
 variable_count: 0
-variable_delay = 0.2
-variable_long = 1.0
+variable_delay: 0.2
+variable_long: 1.0
 gcode:
     {% set long = params.LONG|default(0)|int %}
     {% if long == 1 %}
